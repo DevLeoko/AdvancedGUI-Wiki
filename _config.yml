@@ -1,0 +1,14 @@
+title: AdvancedGUI
+theme: "just-the-docs"
+
+logo: "/assets/logo.png"
+
+aux_links:
+  "Web Editor":
+    - "https://advancedgui.netlify.app/"
+  "Java Docs":
+    - "https://advancedgui.netlify.app/apidocs/"
+  "Discord":
+    - "https://discord.gg/ycDG6rS"
+
+aux_links_new_tab: true
