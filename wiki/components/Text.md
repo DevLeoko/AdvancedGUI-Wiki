@@ -22,7 +22,7 @@ Most lists can be rendered with pure Markdown.
 
 The `Text-Component` is a very basic component which displays text. You can adjust the font family, size, alignment and color. You can even upload your own .ttf font.
 
-![](/assets/components/Text.png)
+![]({{site.baseurl}}/assets/components/Text.png)
 
 ## Placeholders
 

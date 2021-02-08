@@ -22,7 +22,7 @@ Most lists can be rendered with pure Markdown.
 
 The `Rect-Component` is a very basic component which displays a colored rectangle.
 
-![](/assets/components/Rect.png)
+![]({{site.baseurl}}/assets/components/Rect.png)
 
 ## Transparent
 
