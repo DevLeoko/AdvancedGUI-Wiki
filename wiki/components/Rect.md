@@ -16,13 +16,11 @@ nav_order: 0
 
 ---
 
-Most lists can be rendered with pure Markdown.
-
 ## Description
 
 The `Rect-Component` is a very basic component which displays a colored rectangle.
 
-![]({{site.baseurl}}/assets/components/Rect.png)
+![]({{site.baseurl}}/assets/components/rect.png)
 
 ## Transparent
 

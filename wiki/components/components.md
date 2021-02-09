@@ -6,6 +6,3 @@ has_children: true
 ---
 
 # Components
-
-TODO
-{: .fs-6 .fw-300 }
