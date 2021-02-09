@@ -17,7 +17,7 @@ nav_order: 5
 
 ## Command action
 
-The command action executes a certain command. The command should be entered **without** a leading slash and can contain the `%player%` placeholder which will be replacedd with the name of the player that executed the action. The command can be run as console, as an operator (bypasses player permissions) or as the normal player.
+The command action executes a certain command. The command should be entered **without** a leading slash and can contain the `%player%` placeholder which will be replaced with the name of the player that executed the action. The command can be run as console, as an operator (bypasses player permissions) or as the normal player.
 
 ### Run BungeeCord commands
 
