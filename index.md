@@ -35,13 +35,11 @@ Just put the AdvancedGUI and ProtocolLib plugins into your `plugins/` folder and
 This is a really quick walkthrough on how AdvancedGUI works:
 
 #### Creating your first GUI:
-To create a GUI you use our [web editor](https://advancedgui.netlify.app/).
+To create a GUI you use our [web editor](https://advancedgui.app/).
 
 You get started by clicking `Add component` on the bottom-left and see where your creativity takes you from there. 
-Once you are satisfied with your GUI you should do two things:
-1. `Export savepoint` - This gives you a file that you can later import back into the web editor if you want to do any more changes or share your GUI.
-2. `Export for usage` - This gives you a file converted to a format that is understood by the plugin. You are not able to import this file back into the editor!
-Place the usage `.json`-file in the `layout/` folder of AdvancedGUI and do `/ag reload`. Now your GUI should be available ingame. You can see all your Layouts with `/ag layouts`.
+Once you are satisfied with your GUI you should download the layout file. This gives you a file converted to a format that is understood by the plugin.
+Place the `.json`-file in the `layout/` folder of AdvancedGUI and do `/ag reload`. Now your GUI should be available ingame. You can see all your Layouts with `/ag layouts`.
 
 #### Placing and GUIs ingame:
 You can place a GUI with `/ag place [Layout-Name]` and clicking the top-left ItemFrame of a matching ItemFrame grid. Or you can obtain a GUI Item with `/ag item [Layout-Name] (Player)` if it's a 1x1 GUI.
