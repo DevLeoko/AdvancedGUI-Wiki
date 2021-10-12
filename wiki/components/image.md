@@ -18,7 +18,7 @@ nav_order: 2
 
 ## Description
 
-The `Image-Component` is used to display an image. You can upload `.png` and `.jpg` images to the editor and then select your image from the list. The images are indentified by their file name, so you can't upload multiple images with the same name. You don't need to upload the images to your server, as all images are stored in the savepoint/usage files. But you should remove all images that you don't use and only upload images in the resolution you need (so don't upload a 1000x2000 image if you scale it down to 120x240) as this would make the server start much slower.
+The `Image-Component` is used to display an image. You can upload `.png` and `.jpg` images to the editor and then select your image from the list. The images are indentified by their file name, so you can't upload multiple images with the same name. You don't need to upload the images to your server, as all images are stored in the layout files. But you should remove all images that you don't use and only upload images in the resolution you need (so don't upload a 1000x2000 image if you scale it down to 120x240) as this would make the server start much slower.
 
 ![]({{site.baseurl}}/assets/components/image.png)
 

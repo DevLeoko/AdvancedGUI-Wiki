@@ -17,4 +17,4 @@ You can also use these files as backups. Though all GUI data is saved directly i
 ## Examples
 You can download some example layout files that are used on our showcase-server `AGShowcase.hopefuls.de` here:
 
-[Download example savepoints](https://content.hopefuls.de/AdvancedGUI/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Download example layouts](https://content.hopefuls.de/AdvancedGUI/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
