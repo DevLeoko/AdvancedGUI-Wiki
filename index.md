@@ -32,6 +32,14 @@ Just put the AdvancedGUI and ProtocolLib plugins into your `plugins/` folder and
 
 ### Quick Start
 
+<iframe width="560"
+        height="315"
+        style="max-width: 95%"
+        src="https://www.youtube.com/embed/T6aXGrbFDIw"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen></iframe>
+
 This is a really quick walkthrough on how AdvancedGUI works:
 
 #### Creating your first GUI:
