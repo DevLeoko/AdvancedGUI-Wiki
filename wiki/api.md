@@ -13,12 +13,12 @@ nav_order: 7
 1. TOC
 {:toc}
 
+
+[Visit Java Docs](https://advancedgui.app/apidocs/){: .btn .btn-purple }
+
 ---
 
 # Installation
-
-For AdvancedGUI v2.1.0 (not yet released)
-{: .label .label-yellow }
 
 The AdvancedGUI API is available as a Maven dependency. To start using the API, add these snippets to your `pom.xml`
 
