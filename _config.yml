@@ -1,7 +1,9 @@
 title: AdvancedGUI
 description: Official wiki for AdvancedGUI
-remote_theme: pmarsceill/just-the-docs
-theme: "just-the-docs"
+remote_theme: "pmarsceill/just-the-docs"
+
+plugins:
+  - jekyll-remote-theme
 
 logo: "/assets/logo.png"
 
