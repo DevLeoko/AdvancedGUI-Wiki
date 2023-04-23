@@ -12,7 +12,7 @@ permalink: /
 AdvancedGUI enables you to intuitively build interactive GUIs through a web editor and display them in ItemFrames or hand-held maps. 
 {: .fs-6 .fw-300 }
 
-[Open web editor](https://advancedgui.netlify.app/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join our discord](https://discord.gg/ycDG6rS){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Open web editor](https://advancedgui.app/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join our discord](https://discord.gg/ycDG6rS){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
