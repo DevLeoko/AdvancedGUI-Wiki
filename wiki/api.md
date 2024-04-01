@@ -24,17 +24,17 @@ The AdvancedGUI API is available as a Maven dependency. To start using the API, 
 
 ```xml
 <repository>
-    <id>leoko-dev</id>
-    <url>https://repo.leoko.dev/releases</url>
+  <id>respark-releases</id>
+  <name>Respark - Maven Repository</name>
+  <url>https://maven.respark.dev/releases</url>
 </repository>
 ```
 
 ```xml
 <dependency>
-    <groupId>me.leoko.advancedgui</groupId>
-    <artifactId>AdvancedGUI</artifactId>
-    <version>2.1.0</version>
-    <scope>provided</scope>
+  <groupId>me.leoko.advancedgui</groupId>
+  <artifactId>AdvancedGUI</artifactId>
+  <version>2.2.8</version>
 </dependency>
 ```
 
