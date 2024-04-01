@@ -35,6 +35,7 @@ The AdvancedGUI API is available as a Maven dependency. To start using the API, 
   <groupId>me.leoko.advancedgui</groupId>
   <artifactId>AdvancedGUI</artifactId>
   <version>2.2.8</version>
+  <scope>provided</scope>
 </dependency>
 ```
 
