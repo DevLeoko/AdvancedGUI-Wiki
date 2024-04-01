@@ -4,6 +4,7 @@ remote_theme: "pmarsceill/just-the-docs"
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 logo: "/assets/logo.png"
 
