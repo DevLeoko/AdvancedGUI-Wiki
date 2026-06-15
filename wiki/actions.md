@@ -25,7 +25,7 @@ As AdvancedGUI is a Spigot plugin it can not run bungee commands directly. But y
 
 ## Message action
 
-The message action sends a message to the player that triggered the action. You can use color codes and PlaceholderAPI placeholders.
+The message action sends a message to the player that triggered the action. You can use simple color codes (&6), hex colors (&#5BC0EB) and PlaceholderAPI placeholders.
 
 ## Visiblity action
 

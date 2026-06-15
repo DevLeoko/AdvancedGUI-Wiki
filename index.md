@@ -9,7 +9,7 @@ permalink: /
 # Create truly interactive GUIs
 {: .fs-9 }
 
-AdvancedGUI enables you to intuitively build interactive GUIs through a web editor and display them in ItemFrames or hand-held maps. 
+AdvancedGUI enables you to intuitively build interactive GUIs through a web editor and display them in ItemFrames or hand-held maps.
 {: .fs-6 .fw-300 }
 
 [Open web editor](https://advancedgui.app/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Join our discord](https://discord.gg/ycDG6rS){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -20,11 +20,11 @@ AdvancedGUI enables you to intuitively build interactive GUIs through a web edit
 
 ### Dependencies
 
-[ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) is **required**.
+[PacketEvents](https://www.spigotmc.org/resources/80279/) is **required**.
 
 Using [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) is optional but adds a lot of functionality to your GUIs through *Placeholder-Checks*, so you might want to install that too.
 
-For the *Money-Check* to work and for `run command as OP`, you will also need to install [Vault](https://www.spigotmc.org/resources/vault.34315/) (optional).
+For the *Money-Check* to work you will also need to install [Vault](https://www.spigotmc.org/resources/vault.34315/) (optional).
 
 ### Installation
 

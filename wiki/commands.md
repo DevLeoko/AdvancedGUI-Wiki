@@ -32,7 +32,7 @@ This command is used to place a GUI. After executing this command you will have 
 
 The `Interaction radius` defines the distance in blocks that the player has to be in to be able to interact with the GUI and for the GUI to have a full frame rate (~20 fps).
 
-The `-invisible` can be added to make the ItemFrames invisible, which also makes them flat (only works in 1.16+).
+The `-invisible` can be added to make the ItemFrames invisible, which also makes them flat.
 
 ### Reframe (fix)
 `/ag reframe`
@@ -72,6 +72,24 @@ Lists all active GUIs
 `/ag layouts`
 
 List all available layouts
+
+### Show interaction radious
+`/ag showradius [ID/all] [duration]`
+
+Visualize the activation radius of nearby GUIs (only visible to you)
+
+### Synchronization
+`/ag sync (-manual) [Key] [IP]`
+
+Enable live-sync mode (used by the web editor)
+
+`/ag pull`
+
+Pull changes when live-sync is in manual mode
+
+`/ag sync-stop`
+
+Close the active sync connection
 
 ### Plugin info
 `/ag`
