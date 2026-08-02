@@ -1,7 +1,7 @@
 ---
 layout: default
 title: API - Getting started
-nav_order: 7
+nav_order: 8
 ---
 
 # API - Getting started

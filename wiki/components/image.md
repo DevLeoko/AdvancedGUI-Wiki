@@ -24,7 +24,9 @@ The `Image-Component` is used to display an image. You can upload `.png` and `.j
 
 ## Dithering
 
-You can enable image dithering by checking the `DITHERING` checkbox. As minecraft maps can only display very few colors image dithering can help to improve the look of your converted image.
+You can enable image dithering with the `DITHERING` slider. As minecraft maps can only display very few colors image dithering can help to improve the look of your converted image.
+
+The slider sets the intensity of the dithering in percent. `0%` disables it completely and `100%` applies it in full. Values in between reduce the noise that the dithering adds at the cost of some color accuracy, which can look better for images with large uniform areas.
 
 Without dithering:
 
